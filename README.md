@@ -58,10 +58,10 @@ Once logged in the user gets redirected to the screen that displays the list as 
 1. Display a refresh button below the list. When this button is tapped the system should redownload the data from the server
 
 1. The list screen has the following design requirements:
-  1.1. the list should take 50% of the screen width
-  1.1. the list should take 70% of the screen height 
-  1.1. The button should be horizontally aligned with the center of the list
-  1.1. The button should be aligned to the vertical center in it’s vertical space (30% of screen height)
+  * the list should take 50% of the screen width
+  * the list should take 70% of the screen height 
+  * The button should be horizontally aligned with the center of the list
+  * The button should be aligned to the vertical center in it’s vertical space (30% of screen height)
   
 1. If there is a backend error downloading visit/visitors display that error message in a popup.
 
