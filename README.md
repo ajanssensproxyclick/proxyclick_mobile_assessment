@@ -20,8 +20,8 @@ When doing this exercise please code as if you were making production ready code
 
 Build Xamarin iOS (not Xamarin.Forms) iPad app that logs into a proxyclick account and downloads a list of visits for the day and the list of frequent visitors. 
 
-A *visit* is defined as a meeting for a specific visitor on a specified date and at a specified time. 
-A *frequent visitor* is defined as a visitor that is recognized by the proxyclick system and that has the permission to visit a location unannounced.
+* A *visit* is defined as a meeting for a specific visitor on a specified date and at a specified time. 
+* A *frequent visitor* is defined as a visitor that is recognized by the proxyclick system and that has the permission to visit a location unannounced.
 
 ## What you will need.
 
