@@ -50,18 +50,18 @@ Two screens will need to be devlepped :
 Once logged in the user gets redirected to the screen that displays the list as described below:
 
 1. Download and display visits for the day and frequent visitors in a list with 2 sections : visits and visitors.
-1. In the visits section of each cell needs to display the name of the visitor and the start time of the visit. In this section the text color should be green.
+1. In the visits section, each cell needs to display the full name of the visitor and the start time of the visit. In this section the text color should be green.
 1. In the frequent visitor section the cell needs to display visitor's full name. The text color in this section should be blue.
 1. If there are no items in a given section display a cell in that section that reads “No items”
-1. Display a refrsh button below the list. When this button is tapped the system should redownload the data from the server
+1. Display a refresh button below the list. When this button is tapped the system should redownload the data from the server
 
 1. The list screen has the following design requirements:
   a. the list should take 50% of the screen width
   a. the list should take 70% of the screen height 
   a. The button should be horizontally aligned with the center of the list
-  a. The button should be vertically aligned in it’s vertical space (30% of screen height)
+  a. The button should be aligned to the vertical center in it’s vertical space (30% of screen height)
   
-1. If there is a backend error downloading visit/visitors display an error message in a popup.
+1. If there is a backend error downloading visit/visitors display that error message in a popup.
 
 # Last notes
 
