@@ -63,4 +63,10 @@ Once logged in the user gets redirected to the screen that displays the list as 
   
 1. If there is a backend error downloading visit/visitors display an error message in a popup.
 
+# Last notes
+
+1. Don't hesitate to ask questions! Asking questions whatever they may be will not be held against you in your evaluation.
+1. If anything is not specified in the above explanation, it is not expected. For example: nothing was mentionned about the specific design of the login screen which means you are free to design it as you want.
+1. You are given 3 days to finish this exercise. If this is problem  please don"t hesitate to contact me.
+1. You are free to use any external libraries and/or nuget packages you deem useful.
 
