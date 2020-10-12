@@ -29,6 +29,7 @@ Build Xamarin iOS (not Xamarin.Forms) iPad app that logs into a proxyclick accou
 1. The company ID to be used is the following: CO-CXER585
 1. Client ID: 98C5EB84170E6FB3617C47A5B17ECFACB4A0FD49
 1. Client secret will be sent via email
+1. Credentials to access https://app.proxyclick.com will be sent via email
 
 
 ## Requirements:
